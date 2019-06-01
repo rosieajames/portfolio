@@ -76,3 +76,16 @@ a:hover {
 .fab {
   cursor: none;
 }
+
+.ski-compass {
+  margin: 20px;
+}
+
+#pancakes {
+  margin: 15px;
+}
+
+.navbar {
+  background-color: white;
+  position: sticky;
+}
