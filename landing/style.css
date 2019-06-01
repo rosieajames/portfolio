@@ -1,0 +1,78 @@
+/*FONTS AND COLOURS*/
+
+body {
+  background: #CEDFD;
+  color: #CEDFD9;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0px;
+}
+
+h1 {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 50px;
+  color: #f38181;
+}
+
+h2 {
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;  
+  color: #f38181;
+}
+
+p {
+  color: #756c83;
+}
+
+a {
+  text-decoration: none;
+  color: #f38181;
+}
+
+a:hover {
+  text-decoration: none;
+  color: orange;
+}
+
+/*cCUSTOMER DESIGN*/
+
+#banner {
+  background-image: url("https://images.unsplash.com/photo-1532210317995-cc56d90177d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  background-size: cover;
+  padding: 150px 0px;
+  text-align: center;
+}
+
+#banner h1 {
+  color: #fbfbfb;
+  font-size: 50px;
+  text-shadow: 0.3px 0.3px 0.3px grey;
+}
+
+#banner p {
+  font-size:30px;
+  font-weight:lighter;
+  color: #f38181;
+}
+
+.section {
+  padding: 50px;
+  text-align:center;
+  font-weight:lighter;
+}
+
+#footer {
+  background: ##fbfbfb;
+  color: lightgrey;
+  font-size: 15px;
+  padding: 50px;
+  font-weight: 100;
+  text-align: center;
+}
+
+#name {
+  color: #f38181;
+}
+
+.fab {
+  cursor: none;
+}
